@@ -13,10 +13,15 @@ Afin d’adapter les capteurs à la ruche, nous avons besoin d’estimer sa mass
 
 le capteur de pression est un MPX5100DP IC SENSOR
 
-les premiers essais se sont déroulé avec 4 pompot placées sous les 4 pieds de la ruches.
-De nombreux soucis de fuite aux divers raccords nous ont fait abandonner cette idée 
+les premiers essais se sont déroulé avec 4 pompot placées sous les 4 pieds de la ruches. voir photo
+De nombreux soucis de fuite aux divers raccords  et au bouchons nous ont fait abandonner cette idée 
 
 
 
-PLus résistant, la ruche sera placé sur un chambre à air rempli d'eau reliée au capteur de pression
+Plus résistant, la ruche sera placée sur un chambre à air de vélo d'enfant, remplie d'eau, reliée au capteur de pression.
+
+LEs mesures successivent montrent que la chambre n'est pas élastique au sens strict du terme.
+La courbe lors de l'élevation en masse ne suit pas la courbe en diminution de la masse.
+
+Notre nouveau choix pour l'année 2016-2017 se porte sur la jauge de contrainte
 
