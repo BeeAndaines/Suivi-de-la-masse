@@ -24,4 +24,5 @@ LEs mesures successivent montrent que la chambre n'est pas élastique au sens st
 La courbe lors de l'élevation en masse ne suit pas la courbe en diminution de la masse.
 
 Notre nouveau choix pour l'année 2016-2017 se porte sur la jauge de contrainte
+http://www.ebay.com/itm/222223980749
 
