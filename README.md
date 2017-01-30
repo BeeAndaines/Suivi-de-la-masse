@@ -20,7 +20,7 @@ De nombreux soucis de fuite aux divers raccords  et au bouchons nous ont fait ab
 
 Plus résistant, la ruche sera placée sur un chambre à air de vélo d'enfant, remplie d'eau, reliée au capteur de pression.
 
-LEs mesures successivent montrent que la chambre n'est pas élastique au sens strict du terme.
+Les mesures successives montrent que la chambre n'est pas élastique au sens strict du terme.
 La courbe lors de l'élevation en masse ne suit pas la courbe en diminution de la masse.
 
 Notre nouveau choix pour l'année 2016-2017 se porte sur la jauge de contrainte
